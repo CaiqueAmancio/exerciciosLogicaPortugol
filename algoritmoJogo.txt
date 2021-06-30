@@ -1,0 +1,37 @@
+Início do jogo Pinguins numa fria 
+
+Pinguin filhote cachecol vermelho
+Pinguin adulto cachecol vermelho
+atravessar
+
+deixar pinguin adulto cachecol vermelho do outro lado
+atravessar
+
+pinguin filhote cachecol vermelho
+piguin filhote cachecol verde
+atravessar
+
+deixar pinguin filhote cachecol vermelho junto do adulto cachecol vermelho
+atravessar
+
+pinguin filhote cachecol verde
+piguin adulto cachecol verde
+atravessar
+
+deixar pinguin adulto cachecol verde
+atravessar
+
+pinguin filhote cachecol verde
+pinguin filhote cachecol azul
+atravessar
+
+deixar pinguin filhote cachecol verde junto do adulto cachecol verde
+atravessar
+
+pinguin filhote cachecol azul
+pinguin adulto cachecol azul
+atravessar
+
+deixar pinguin filhote e adulto cachecois azul
+
+fim do jogo
